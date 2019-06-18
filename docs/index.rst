@@ -5,4 +5,4 @@ TornadoNote
 .. toctree::
    :maxdepth: 2
    
-   tornado.web
+   Tornado.web
